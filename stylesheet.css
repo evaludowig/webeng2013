@@ -4,7 +4,7 @@ font-family:  Tahoma, Verdana, sans-serif;
 
 
 body{
- background-color:blue;   
+ background-color:#6699FF;   
 }
 
 /*#banner{
@@ -13,11 +13,11 @@ background-color:white;
 }*/
 
 .innen{
-height:200px;
+height:300px;
 background-color:white;
 border-radius: 20px;
 /*background-image:url("http://bit.ly/NnVbxt");*/
-background-image:url(Gras.png);
+background-image:url(Wasser.jpg);
 background-repeat:repeat-x;
 background-position:bottom;
 }
@@ -78,7 +78,8 @@ width: 60%;
 }
 */
 td:nth-child(1) {
- background-color:#00FF00;   
+ background-color:#009999;
+color: white; 
 }
 
 	
